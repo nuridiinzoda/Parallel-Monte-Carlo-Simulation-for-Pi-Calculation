@@ -1,6 +1,4 @@
-# Parallel Monte Carlo Simulation for Pi Calculation
- 
-# Monte Carlo Simulation for Pi Estimation
+ # Monte Carlo Simulation for Pi Estimation
 
 This project implements a Monte Carlo simulation to estimate the value of Pi using both serial and parallel approaches. The parallel version utilizes OpenMP to leverage multiple CPU cores, enhancing performance.
 
@@ -18,15 +16,3 @@ This project implements a Monte Carlo simulation to estimate the value of Pi usi
 
 ## Getting Started
 
-### Prerequisites
-
-- C compiler (e.g., `gcc`) with OpenMP support.
-- Basic understanding of C programming and parallel computing concepts.
-
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/monte-carlo-pi.git
-cd monte-carlo-pi
