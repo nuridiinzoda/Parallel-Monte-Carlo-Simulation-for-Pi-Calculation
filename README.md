@@ -15,10 +15,6 @@ Thread safety is ensured by using OpenMP’s reduction clause. The clause reduct
 ## Compare the accuracy and performance of the parallel implementation with the serial one.
 Collect the efficiency for both serial and parallel implementations. Compare the results to see the  accuracy of the parallel version compared to the serial version. Here’s an comparison:
 
-Number of Points  	  Serial Pi Estimate  	  Efficiency  	  Parallel Pi Estimate 	  Efficiency
-1,000             	  3.12                	  99.327%     	  3.128                	  99.6687%
-10,000            	  3.1356              	  99.8092%    	  3.136                	  99.6055%
-100,000           	  3.13236             	  99.7061%    	  3.14192              	  99.9896%
-1,000,000         	  3.13956             	  99.9352%    	  3.14291              	  99.9581%
+
 ![image](https://github.com/user-attachments/assets/1b03769a-e13a-4934-8215-96feaf7a8648)
 
