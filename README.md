@@ -15,6 +15,7 @@ Thread safety is ensured by using OpenMP’s reduction clause. The clause reduct
 ## Compare the accuracy and performance of the parallel implementation with the serial one.
 Collect the efficiency for both serial and parallel implementations. Compare the results to see the  accuracy of the parallel version compared to the serial version. Here’s an comparison:
 
+
 ![image](https://github.com/user-attachments/assets/9d4e00b8-24f3-4326-b55f-4f80797030f0)
 
 
