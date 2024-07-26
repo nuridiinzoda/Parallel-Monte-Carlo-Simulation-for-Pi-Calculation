@@ -14,4 +14,4 @@ Thread safety is ensured by using OpenMP’s reduction clause. The clause reduct
 ## Run the simulation with different numbers of points and threads to analyse the performance.
 ## Compare the accuracy and performance of the parallel implementation with the serial one:
 
-
+<img width="917" alt="Screenshot 2024-07-26 at 23 11 52" src="https://github.com/user-attachments/assets/4134b993-e2a8-4a5f-8a58-fde60bdf5021">
